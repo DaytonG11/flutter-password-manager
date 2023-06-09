@@ -24,3 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 # flutter-password-manager
 # flutter-password-manager
 # flutter-password-manager
+# flutter-password-manager
